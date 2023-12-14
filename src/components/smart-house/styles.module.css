@@ -1,0 +1,30 @@
+.container_items {
+    border: 5px solid black;
+    width: 340px;
+    margin-top: 50px;
+}
+.item {
+    width: 340px;
+    background-color: aliceblue;
+    border: 1px solid grey;
+    display:flex;
+    justify-content: space-between;
+}
+.edit {
+    width: 340px;
+    background-color: aliceblue;
+    border: 1px solid grey;
+    display:flex;
+    justify-content: space-between;
+}
+.name_item {
+    width: 120px;
+    word-wrap: break-word;
+}
+
+.main_container {
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+} 

@@ -1,0 +1,14 @@
+.container {
+    background-color: darkseagreen;
+    height:70px;
+    display:flex;
+    justify-content: center;
+}
+
+.navbar {
+    width:700px;
+    height:100%;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
